@@ -1,0 +1,9 @@
+README.md
+setup.py
+ggslicer/__init__.py
+ggslicer/main.py
+ggslicer.egg-info/PKG-INFO
+ggslicer.egg-info/SOURCES.txt
+ggslicer.egg-info/dependency_links.txt
+ggslicer.egg-info/requires.txt
+ggslicer.egg-info/top_level.txt

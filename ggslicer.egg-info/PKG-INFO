@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ggslicer
+Version: 0.9
+Summary: Functions that allow for efficient wrangling of imaging data into a data frame. An image file is provided, along with the desired image axis and specific voxel coordinates to extract voxel and world coordinates, and intensity data at each coordinate.
+Home-page: 
+Author: Shana Fu
+Author-email: shana.fpy@gmail.com
+Classifier: 
+Description-Content-Type: test/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: SimpleITK
+Requires-Dist: tqdm
