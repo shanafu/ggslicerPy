@@ -2,7 +2,7 @@ from ggslicer.readwrite import ReadImage_fix, WriteImage_fix
 import os
 from pathlib import Path
 
-import SimpleITK as sitk
+import SimpleITK
 
 # MINC -> NIFTI
 image = ReadImage_fix("test.mnc")
